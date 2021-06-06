@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lukaber
 - 👀 I’m interested in Free Style Coding
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...<ksdatwork1@gmail.com>
 
